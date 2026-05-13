@@ -1,15 +1,9 @@
 # Python-API_Projects
-General Description: 
+**General Description:** This repository provides several past projects completed with Python and API usage tools. Coding is done fully with Python and API usage is intertwined to allow for more diverse code implementation.
 
-This repository provides several past projects completed with Python and API usage tools. Coding is done fully with Python and API usage is intertwined to allow for more diverse code implementation.
+**Projects Status:** All three project files are completed and are no longer in development. Necessary measures will be taken to improve the code if issues occur in the future.
 
-Projects Status: 
-
-All three project files are completed and are no longer in development. Necessary measures will be taken to improve the code if issues occur in the future.
-
-Requirements: 
-
-All three project files can be run by any software type that allows for Python coding.
+**Requirements:** All three project files can be run by any software type that allows for Python coding.
 
 If there are issues running the nltk.corpus module, use the following python code to fix the problem:
 - import nltk
